@@ -4,7 +4,6 @@ This is a quiz web application built using .NET 6 core for the backend, React fo
 
 ## Features
 
-- User authentication and authorization
 - Quiz creation and management
 - Quiz taking functionality
 - Score tracking and leaderboard
