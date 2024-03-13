@@ -55,10 +55,6 @@ Access the application in your browser at http://localhost:3000.
 ### Quiz Page
 ![second](https://github.com/shubhampathak2896/Quiz-.Net-Core-6-React-SQL/assets/149826847/f9e089ea-f32e-4a9d-acfe-cb4a56ae0cf5)
 
-### Leaderboard Page
-![third](https://github.com/shubhampathak2896/Quiz-.Net-Core-6-React-SQL/assets/149826847/b003839d-9a5c-43d6-a388-8ed5c4568bc5)
-
-
 ### Winning GIF
 
 ![QuizWinner](https://github.com/shubhampathak2896/Quiz-.Net-Core-6-React-SQL/assets/149826847/db0e223e-4e57-499a-952e-a9f9d5c5c6c3)
